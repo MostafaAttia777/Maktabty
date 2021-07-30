@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Books</string>
+
+    <string name="facebook_app_id">763073274482577</string>
+    <string name="fb_login_protocol_scheme">fb763073274482577</string>
+    <string name="open" translatable="false">open NavigationDrawer</string>
+    <string name="close" translatable="false">close NavigationDrawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="maktabty">maktabty</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">english</string>
+    <string name="full_name">full name</string>
+    <string name="email_address">email address</string>
+    <string name="password1">password</string>
+    <string name="phone">phone</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="don_t_have_account">don\'t have account</string>
+    <string name="use_other_methods">use other methods</string>
+    <string name="login">login</string>
+    <string name="create">create</string>
+    <string name="join_us">join us</string>
+    <string name="home">home</string>
+    <string name="islamic">islamic</string>
+    <string name="novels">novels</string>
+    <string name="settings">settings</string>
+    <string name="request_a_book">request a book</string>
+    <string name="sign_out">sign out</string>
+    <string name="favorite">favorite</string>
+    <string name="author_name">author name</string>
+    <string name="link_of_book_if_you_have_it">link of book..if you have it</string>
+    <string name="name_of_book">name of book</string>
+    <string name="send">send</string>
+    <string name="btn_two_eng">btn_two_eng</string>
+    <string name="buutin2">arabic</string>
+    <string name="buutin">English</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="donwload">donwload</string>
+    <string name="subjects">subjects</string>
+</resources>

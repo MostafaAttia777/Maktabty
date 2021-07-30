@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "311623325589",
+    "firebase_url": "https://maktabty-438f4.firebaseio.com",
+    "project_id": "maktabty-438f4",
+    "storage_bucket": "maktabty-438f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311623325589:android:82585262eb89536767889c",
+        "android_client_info": {
+          "package_name": "com.Maktaba.MyBooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311623325589-qfog3ekgbf9k6ljclphqvtnhvb7cncg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Maktaba.MyBooks",
+            "certificate_hash": "87355193a2e2094371b3c365fc8346f54905f13d"
+          }
+        },
+        {
+          "client_id": "311623325589-4a7bcc9b04jum0a1nvvug3cgaas65t2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTITw0Ei2RxRi87qskDCnHhOfoG9BhuTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311623325589-4a7bcc9b04jum0a1nvvug3cgaas65t2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311623325589:android:2ee79cbadd81015b67889c",
+        "android_client_info": {
+          "package_name": "com.Maktabty.Stores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311623325589-aq8mkcutmnfmgspqadj02aiv7kpp0bp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Maktabty.Stores",
+            "certificate_hash": "87355193a2e2094371b3c365fc8346f54905f13d"
+          }
+        },
+        {
+          "client_id": "311623325589-4a7bcc9b04jum0a1nvvug3cgaas65t2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTITw0Ei2RxRi87qskDCnHhOfoG9BhuTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311623325589-4a7bcc9b04jum0a1nvvug3cgaas65t2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311623325589:android:b2a1e8b7cc04e74767889c",
+        "android_client_info": {
+          "package_name": "com.Maktabty.maktabty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311623325589-cf67r1f5t8f87ujdculujs4gd3mro73h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Maktabty.maktabty",
+            "certificate_hash": "87355193a2e2094371b3c365fc8346f54905f13d"
+          }
+        },
+        {
+          "client_id": "311623325589-4a7bcc9b04jum0a1nvvug3cgaas65t2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTITw0Ei2RxRi87qskDCnHhOfoG9BhuTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311623325589-4a7bcc9b04jum0a1nvvug3cgaas65t2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

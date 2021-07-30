@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="___________________________________________________">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/home_x"
+                    android:icon="@drawable/ic_mortgage"
+                    android:title="@string/home" />
+
+                <item
+                    android:id="@+id/Favorite"
+                    android:icon="@drawable/ic_favorite_border_black_24dp"
+                    android:title="@string/favorite" />
+                <item
+                    android:id="@+id/Islamic"
+                    android:icon="@drawable/ic_history"
+                    android:title="@string/islamic" />
+                <item
+                    android:id="@+id/Novels"
+                    android:icon="@drawable/ic_novel"
+                    android:title="@string/novels" />
+                <item
+                    android:id="@+id/english"
+                    android:icon="@drawable/ic_hhh"
+                    android:title="@string/english" />
+                <item
+                    android:id="@+id/donwload"
+                    android:icon="@drawable/ic_arrow_downward_black_24dp"
+                    android:title="@string/donwload" />
+                <item
+                    android:id="@+id/studying_subjects"
+                    android:icon="@drawable/ic_hhh"
+                    android:title="@string/subjects" />
+<!--                <item-->
+<!--                    android:id="@+id/authors"-->
+<!--                    android:icon="@drawable/ic_shakespeare"-->
+<!--                    android:title="@string/authors" />-->
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/settings" />
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_info_outline_black_24dp"
+        android:title="@string/request_a_book" />
+    <item
+        android:id="@+id/out"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="@string/sign_out" />
+</menu>

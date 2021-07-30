@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="maktabty">مكتبتي</string>
+    <string name="arabic">الغه العربية</string>
+    <string name="favorite">المفضله</string>
+    <string name="islamic">كتب اسلامي</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">الرقم السري</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="use_other_methods">استخدم طرق اخري</string>
+    <string name="full_name">االاسم</string>
+    <string name="email_address">البريد الالكتروني</string>
+    <string name="phone">الهاتف</string>
+    <string name="password1">الرقم السري</string>
+    <string name="don_t_have_account">لا املك حساب ؟</string>
+    <string name="create">انشاء</string>
+    <string name="novels">روايات</string>
+    <string name="home">الرئيسية</string>
+    <string name="btn_two_eng">الغة الانجليزية</string>
+    <string name="buutin2">عربي</string>
+    <string name="buutin">الغه الانجليزيه</string>
+    <string name="sign_out">الخروج</string>
+    <string name="settings">الإعدادات</string>
+    <string name="join_us">انضم الينا</string>
+    <string name="english">كتب انجليزية</string>
+
+    <string name="request_a_book">اريد كتاب معين</string>
+
+    <string name="author_name">اسم الكاتب</string>
+    <string name="link_of_book_if_you_have_it">لينك الكتاب ان وجد</string>
+    <string name="name_of_book">اسم الكتاب</string>
+    <string name="send">ارسال</string>
+</resources>
